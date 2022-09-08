@@ -6,7 +6,7 @@ All of the Monogramming related activities
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sun Aug 28 21:29:42 JST 2022)
+     0 directories, 2 files (Mon Sep  5 19:33:10 JST 2022)
 
 
 -EOF-
